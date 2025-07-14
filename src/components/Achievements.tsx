@@ -8,7 +8,8 @@ export const Achievements = () => {
       description: "Represented KL University as one of the top 10 shortlisted teams among top institutions, including IITs and leading colleges across India. Built an AI-driven NLP platform to translate natural language prompts into deployable Solidity smart contracts for blockchain applications. Integrated GEN AI with real-time validation.",
       icon: Brain,
       links: [
-        { url: "https://github.com/tejvardhan19/KL-NEURO.git", icon: Github, label: "KL NEURO" }
+        { url: "https://github.com/tejvardhan19/KL-NEURO-DTCC-Hackathon.git", icon: Github, label: "KL NEURO" },
+        { url: "https://www.linkedin.com/posts/teja-vardhan-768a58285_dtcc-kluniversity-aihackathon-activity-7348339269914062848-83t1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVjl0ABbVwdNOju4zisBCI2x9Y_nWAnwx4", icon: Linkedin, label: "LinkedIn Post" }
       ]
     },
     {
@@ -150,4 +151,4 @@ export const Achievements = () => {
   );
 };
 
-export default Achievements;
+export default Achievements;  
